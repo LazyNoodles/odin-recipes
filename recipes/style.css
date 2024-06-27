@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1, h2{
+    font-size: 20px;
+    color: red;
+}
+p{
+    font-style: italic;
+}
+li{
+    font-size: 18px;
+}
+img{
+    height: auto;
+    width: 500px;
+}
